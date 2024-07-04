@@ -50,7 +50,7 @@ html {
 
 .iptv2_btn {
   font-size: 16px;
-  color: var(--black);
+  color: var(--white);
   text-align: center;
   text-decoration: none;
   background: var(--iptv2_btn);
@@ -68,7 +68,7 @@ html {
 }
 .iptv2_btn:active,
 .iptv2_btn:hover {
-  color: var(--black);
+  color: var(--white);
   text-decoration: none;
   background-color: var(--iptv2_btn-hvr-actv);
   border: none;

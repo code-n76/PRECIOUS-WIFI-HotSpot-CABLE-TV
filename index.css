@@ -5,13 +5,13 @@
   --fb_btn-hvr-actv: rgb(0, 110, 229);
   --iptv_btn: rgb(213, 82, 9);
   --iptv_btn-hvr-actv: rgb(191, 73, 8);
-  --iptv2_btn: rgb(255, 193, 7);
-  --iptv2_btn-hvr-actv: rgb(229, 173, 6);
+  --iptv2_btn: rgb(220, 53, 69);
+  --iptv2_btn-hvr-actv: rgb(198, 47, 62);
   --gcash-btn: rgb(0, 123, 255);
   --gcash-btn-hvr-actv: rgb(0, 110, 229);
   --maya-btn: rgb(40, 167, 69);
   --maya-btn-hvr-actv: rgb(36, 150, 62);
-  --bak-clr: rgba(231, 194, 236, 1);
+  --bak-clr: rgb(253, 194, 15);
 }
 
 @font-face {
